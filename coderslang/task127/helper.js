@@ -1,0 +1,1 @@
+export const oneWillDo = (x, y, z) => x || y || z
